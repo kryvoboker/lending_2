@@ -257,6 +257,11 @@
 		padding-top: 80px;
 	}	
 }
+@media (min-width: 375px) {
+	.icon-bars:before {
+		top: 121px;
+	}
+}
 @media (max-width: 350px) {
 	.news__date {
 		left: 12%;
